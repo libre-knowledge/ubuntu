@@ -12,6 +12,13 @@
 * [The Ubuntu Packaging Guide](https://github.com/canonical/ubuntu-packaging-guide)  
   說明如何進行 Ubuntu 開發與軟體打包
 
+## 解決方案
+
+以下列舉本主題相關的解決方案：
+
+* （開發中）[Ubuntu Desktop in Vagrant](https://gitlab.com/brlin/ubuntu-desktop-vagrant)  
+  自動開通一致且可重現的 Ubuntu 桌面環境
+
 ## 參考資料
 
 以下列舉撰寫本主題內容時所參考的第三方資源：

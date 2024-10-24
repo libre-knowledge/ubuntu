@@ -13,3 +13,7 @@
 	ignore = dirty
 	shallow = true
 	fetchRecurseSubmodules = true
+[submodule "Ubuntu Desktop in Vagrant"]
+	path = Ubuntu Desktop in Vagrant
+	url = https://gitlab.com/brlin/ubuntu-desktop-vagrant.git
+	ignore = dirty
