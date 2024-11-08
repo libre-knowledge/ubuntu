@@ -12,7 +12,7 @@
 	url = https://github.com/canonical/ubuntu-packaging-guide.git
 	ignore = dirty
 	shallow = true
-	fetchRecurseSubmodules = true
+	fetchRecurseSubmodules = false
 [submodule "Ubuntu Desktop in Vagrant"]
 	path = Ubuntu Desktop in Vagrant
 	url = https://gitlab.com/brlin/ubuntu-desktop-vagrant.git
