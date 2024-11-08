@@ -19,6 +19,13 @@
 * （開發中）[Ubuntu Desktop in Vagrant](https://gitlab.com/brlin/ubuntu-desktop-vagrant)  
   自動開通一致且可重現的 Ubuntu 桌面環境
 
+## 第三方文件
+
+以下列舉本主題相關的第三方文件：
+
+* [toppy368/ubuntu-vps-doc: 各種ubuntu的教學文檔](https://github.com/toppy368/ubuntu-vps-doc)  
+  由 Toppy 所著，包含多種不同主題的 Ubuntu 相關中文教學文章
+
 ## 參考資料
 
 以下列舉撰寫本主題內容時所參考的第三方資源：

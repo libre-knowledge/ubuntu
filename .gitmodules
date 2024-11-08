@@ -17,3 +17,9 @@
 	path = Ubuntu Desktop in Vagrant
 	url = https://gitlab.com/brlin/ubuntu-desktop-vagrant.git
 	ignore = dirty
+[submodule "ubuntu-vps-doc：各種ubuntu的教學文檔"]
+	path = ubuntu-vps-doc：各種ubuntu的教學文檔
+	url = https://github.com/toppy368/ubuntu-vps-doc.git
+	ignore = dirty
+	shallow = true
+	fetchRecurseSubmodules = false
